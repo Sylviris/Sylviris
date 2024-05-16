@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring Software Developer. I'm an analyti
 ### [Smart Home Automation System](https://github.com/Sylviris/IoT-Security-System)
 - **Description:** Developed an IoT-based smart home system using Raspberry Pi Zero W, featuring motion-detecting lights and cameras. The system allows users to control RGB light colors and view recorded videos through a secure web interface.
 - **Tech Stack:** React, Node.js, Express, MQTT, Bootstrap, Axios, Python, Raspberry Pi Zero W, PIR Sensor, NeoPixel RGB LED, Pi Camera Module, SSL/TLS.
-- **Repo Link:** [Repository Link](https://github.com/Sylviris/IoT-Security-System)
+- **Repo Link:** (https://github.com/Sylviris/IoT-Security-System)
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/matthewmsoares/)
